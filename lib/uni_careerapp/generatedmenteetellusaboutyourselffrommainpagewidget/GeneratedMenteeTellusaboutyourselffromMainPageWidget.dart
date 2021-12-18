@@ -1,0 +1,387 @@
+import 'package:flutter/material.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedWidget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedRectangle14Widget1.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedTradesWidget2.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedHealthScienceWidget2.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedRectangle16Widget1.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedRectangle15Widget1.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedGoHomeWidget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedHealthphoto2Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedFinancephoto6Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedChangeYourInterestWidget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedBioWidget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedCommunicationsWidget2.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedProgrammingimage3Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedBusinessWidget2.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedProgrammingimage4Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedNewlogo_31Widget1.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedEmailWidget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedPhoneWidget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedUnknownpersonicon41Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedRectangle19Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedTechnologyWidget2.dart';
+import 'package:flutterapp/helpers/transform/transform.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedFinancephoto5Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedRectangle12Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedRectangle11Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedWidget1.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedLv1MenteeWidget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedBioWidget1.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedUpdateyourinformationWidget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedRectangle13Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedRectangle18Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedSubmitWidget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedLocationWidget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedEducationphoto2Widget.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedEducationWidget2.dart';
+import 'package:flutterapp/uni_careerapp/generatedmenteetellusaboutyourselffrommainpagewidget/generated/GeneratedRectangle17Widget.dart';
+
+/* Frame (Mentee) Tell us about yourself - from Main Page
+    Autogenerated by FlutLab FTF Generator
+  */
+class GeneratedMenteeTellusaboutyourselffromMainPageWidget
+    extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Material(
+        child: ClipRRect(
+      borderRadius: BorderRadius.zero,
+      child: Container(
+        width: 360.0,
+        height: 780.0,
+        child: Stack(
+            fit: StackFit.expand,
+            alignment: Alignment.center,
+            overflow: Overflow.visible,
+            children: [
+              ClipRRect(
+                borderRadius: BorderRadius.zero,
+                child: Container(
+                  color: Color.fromARGB(255, 233, 229, 214),
+                ),
+              ),
+              Positioned(
+                left: 24.0,
+                top: 432.0,
+                right: null,
+                bottom: null,
+                width: 336.0,
+                height: 293.0,
+                child: GeneratedRectangle13Widget(),
+              ),
+              Positioned(
+                left: 0.0,
+                top: 0.0,
+                right: null,
+                bottom: null,
+                width: 375.0,
+                height: 221.0,
+                child: GeneratedRectangle11Widget(),
+              ),
+              Positioned(
+                left: 122.0,
+                top: 64.0,
+                right: null,
+                bottom: null,
+                width: 110.0,
+                height: 110.0,
+                child: GeneratedUnknownpersonicon41Widget(),
+              ),
+              Positioned(
+                left: 110.0,
+                top: 226.0,
+                right: null,
+                bottom: null,
+                width: 228.0,
+                height: 65.0,
+                child: GeneratedUpdateyourinformationWidget(),
+              ),
+              Positioned(
+                left: 154.0,
+                top: 725.0,
+                right: null,
+                bottom: null,
+                width: 51.0,
+                height: 51.0,
+                child: GeneratedNewlogo_31Widget1(),
+              ),
+              Positioned(
+                left: 214.0,
+                top: 143.0,
+                right: null,
+                bottom: null,
+                width: 18.0,
+                height: 26.0,
+                child: GeneratedWidget(),
+              ),
+              Positioned(
+                left: 32.0,
+                top: 398.0,
+                right: null,
+                bottom: null,
+                width: 155.0,
+                height: 21.0,
+                child: GeneratedChangeYourInterestWidget(),
+              ),
+              Positioned(
+                left: 33.0,
+                top: 268.0,
+                right: null,
+                bottom: null,
+                width: 29.0,
+                height: 21.0,
+                child: GeneratedBioWidget(),
+              ),
+              Positioned(
+                left: 31.0,
+                top: 511.0,
+                right: null,
+                bottom: null,
+                width: 94.0,
+                height: 17.0,
+                child: GeneratedTechnologyWidget2(),
+              ),
+              Positioned(
+                left: 247.0,
+                top: 511.0,
+                right: null,
+                bottom: null,
+                width: 102.0,
+                height: 29.0,
+                child: GeneratedEducationWidget2(),
+              ),
+              Positioned(
+                left: 48.0079345703125,
+                top: 442.0,
+                right: null,
+                bottom: null,
+                width: 55.104434967041016,
+                height: 57.50311279296875,
+                child: GeneratedProgrammingimage3Widget(),
+              ),
+              Positioned(
+                left: 44.0079345703125,
+                top: 570.0,
+                right: null,
+                bottom: null,
+                width: 55.104434967041016,
+                height: 57.50311279296875,
+                child: GeneratedProgrammingimage4Widget(),
+              ),
+              Positioned(
+                left: null,
+                top: 511.0,
+                right: null,
+                bottom: null,
+                width: 85.0,
+                height: 29.0,
+                child: TransformHelper.translate(
+                    x: 5.50, y: 0.00, z: 0, child: GeneratedBusinessWidget2()),
+              ),
+              Positioned(
+                left: 160.0,
+                top: 441.6123962402344,
+                right: null,
+                bottom: null,
+                width: 55.07784652709961,
+                height: 57.45728302001953,
+                child: GeneratedFinancephoto5Widget(),
+              ),
+              Positioned(
+                left: 44.0,
+                top: 640.0,
+                right: null,
+                bottom: null,
+                width: 64.0,
+                height: 17.0,
+                child: GeneratedTradesWidget2(),
+              ),
+              Positioned(
+                left: 238.0,
+                top: 643.0,
+                right: null,
+                bottom: null,
+                width: 123.0,
+                height: 33.0,
+                child: GeneratedCommunicationsWidget2(),
+              ),
+              Positioned(
+                left: null,
+                top: 639.0,
+                right: null,
+                bottom: null,
+                width: 75.0,
+                height: 24.0,
+                child: TransformHelper.translate(
+                    x: -5.50,
+                    y: 0.00,
+                    z: 0,
+                    child: GeneratedHealthScienceWidget2()),
+              ),
+              Positioned(
+                left: 251.0,
+                top: 574.6123657226562,
+                right: null,
+                bottom: null,
+                width: 55.07784652709961,
+                height: 57.45728302001953,
+                child: GeneratedFinancephoto6Widget(),
+              ),
+              Positioned(
+                left: 156.0,
+                top: 572.0,
+                right: null,
+                bottom: null,
+                width: 55.0,
+                height: 56.0,
+                child: GeneratedHealthphoto2Widget(),
+              ),
+              Positioned(
+                left: 251.0,
+                top: 441.0,
+                right: null,
+                bottom: null,
+                width: 57.0,
+                height: 58.0,
+                child: GeneratedEducationphoto2Widget(),
+              ),
+              Positioned(
+                left: 151.0,
+                top: 266.0,
+                right: null,
+                bottom: null,
+                width: 179.0,
+                height: 21.0,
+                child: GeneratedRectangle12Widget(),
+              ),
+              Positioned(
+                left: 33.0,
+                top: 268.0,
+                right: null,
+                bottom: null,
+                width: 29.0,
+                height: 21.0,
+                child: GeneratedBioWidget1(),
+              ),
+              Positioned(
+                left: 151.0,
+                top: 266.0,
+                right: null,
+                bottom: null,
+                width: 179.0,
+                height: 21.0,
+                child: GeneratedRectangle15Widget1(),
+              ),
+              Positioned(
+                left: 94.0,
+                top: 184.0,
+                right: null,
+                bottom: null,
+                width: 179.0,
+                height: 21.0,
+                child: GeneratedRectangle16Widget1(),
+              ),
+              Positioned(
+                left: 147.0,
+                top: 186.0,
+                right: null,
+                bottom: null,
+                width: 78.0,
+                height: 18.0,
+                child: GeneratedLv1MenteeWidget(),
+              ),
+              Positioned(
+                left: 32.0,
+                top: 304.0,
+                right: null,
+                bottom: null,
+                width: 71.0,
+                height: 24.0,
+                child: GeneratedLocationWidget(),
+              ),
+              Positioned(
+                left: 150.0,
+                top: 302.0,
+                right: null,
+                bottom: null,
+                width: 179.0,
+                height: 21.0,
+                child: GeneratedRectangle14Widget1(),
+              ),
+              Positioned(
+                left: 33.0,
+                top: 339.0,
+                right: null,
+                bottom: null,
+                width: 55.0,
+                height: 24.0,
+                child: GeneratedPhoneWidget(),
+              ),
+              Positioned(
+                left: 151.0,
+                top: 337.0,
+                right: null,
+                bottom: null,
+                width: 179.0,
+                height: 21.0,
+                child: GeneratedRectangle17Widget(),
+              ),
+              Positioned(
+                left: 151.0,
+                top: 337.0,
+                right: null,
+                bottom: null,
+                width: 179.0,
+                height: 21.0,
+                child: GeneratedRectangle18Widget(),
+              ),
+              Positioned(
+                left: 32.0,
+                top: 370.0,
+                right: null,
+                bottom: null,
+                width: 49.0,
+                height: 24.0,
+                child: GeneratedEmailWidget(),
+              ),
+              Positioned(
+                left: 150.0,
+                top: 368.0,
+                right: null,
+                bottom: null,
+                width: 179.0,
+                height: 21.0,
+                child: GeneratedRectangle19Widget(),
+              ),
+              Positioned(
+                left: 63.0,
+                top: 735.0,
+                right: null,
+                bottom: null,
+                width: 71.0,
+                height: 30.0,
+                child: GeneratedSubmitWidget(),
+              ),
+              Positioned(
+                left: 172.0,
+                top: 737.0,
+                right: null,
+                bottom: null,
+                width: 28.0,
+                height: 33.0,
+                child: GeneratedWidget1(),
+              ),
+              Positioned(
+                left: 227.0,
+                top: 733.0,
+                right: null,
+                bottom: null,
+                width: 101.0,
+                height: 30.0,
+                child: GeneratedGoHomeWidget(),
+              )
+            ]),
+      ),
+    ));
+  }
+}
