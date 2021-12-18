@@ -12,7 +12,7 @@ class GeneratedSignUp31Widget2 extends StatelessWidget {
       child: ClipRRect(
         borderRadius: BorderRadius.zero,
         child: Image.asset(
-          "assets/images/63e9c5c8dae5416a90da0738452b2ceb",
+          "assets/images/a011efea98b6430fb784727a14d208a1",
           color: null,
           fit: BoxFit.fill,
           width: 340.0,

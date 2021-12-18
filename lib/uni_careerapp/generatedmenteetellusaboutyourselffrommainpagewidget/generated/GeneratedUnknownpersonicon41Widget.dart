@@ -15,7 +15,7 @@ class GeneratedUnknownpersonicon41Widget extends StatelessWidget {
       child: ClipRRect(
         borderRadius: BorderRadius.circular(143.0),
         child: Image.asset(
-          "assets/images/a28bf0631d16367a88cf700dfd54532eb0a51918.png",
+          "assets/images/2f38b8f3457b4ca2048c942f27cf730fe2a84f74.png",
           color: null,
           fit: BoxFit.cover,
           width: 110.0,

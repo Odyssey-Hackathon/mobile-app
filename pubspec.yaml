@@ -23,4 +23,8 @@ flutter:
           asset: "fonts/Roboto-regular.ttf"
           style: "normal"
           weight: 400
+        - 
+          asset: "fonts/Roboto-700.ttf"
+          style: "normal"
+          weight: 700
   uses-material-design: true

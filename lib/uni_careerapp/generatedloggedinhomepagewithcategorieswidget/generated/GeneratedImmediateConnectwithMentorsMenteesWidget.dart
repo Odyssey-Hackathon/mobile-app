@@ -14,7 +14,7 @@ with Mentors & Mentees''',
       textAlign: TextAlign.center,
       style: TextStyle(
         height: 1.171875,
-        fontSize: 16.0,
+        fontSize: 14.0,
         fontFamily: 'Roboto',
         fontWeight: FontWeight.w400,
         color: Color.fromARGB(255, 255, 255, 255),

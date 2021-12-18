@@ -7,12 +7,17 @@ class GeneratedRectangle11Widget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 375.0,
-      height: 221.0,
+      width: 360.0,
+      height: 217.0,
       child: ClipRRect(
         borderRadius: BorderRadius.zero,
-        child: Container(
-          color: Color.fromARGB(255, 196, 196, 196),
+        child: Image.asset(
+          "assets/images/582f4ff4b918beba1e73d420ae0dbb76220c9377.png",
+          color: null,
+          fit: BoxFit.cover,
+          width: 360.0,
+          height: 217.0,
+          colorBlendMode: BlendMode.dstATop,
         ),
       ),
     );

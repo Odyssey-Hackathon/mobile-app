@@ -12,7 +12,7 @@ class GeneratedUntitled_Artwork31Widget extends StatelessWidget {
       child: ClipRRect(
         borderRadius: BorderRadius.zero,
         child: Image.asset(
-          "assets/images/79a9c501e75d4343a756ea66d3f1314d",
+          "assets/images/804111f51b7244359305e7280505116e",
           color: null,
           fit: BoxFit.fill,
           width: 249.0,

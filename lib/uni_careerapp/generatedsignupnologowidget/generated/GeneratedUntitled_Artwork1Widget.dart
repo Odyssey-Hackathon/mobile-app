@@ -7,16 +7,16 @@ class GeneratedUntitled_Artwork1Widget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 62.0,
-      height: 62.0,
+      width: 47.0,
+      height: 47.0,
       child: ClipRRect(
         borderRadius: BorderRadius.zero,
         child: Image.asset(
           "assets/images/6ac3454e6277e821ec9f262e05e74ff3f36f9778.png",
           color: null,
           fit: BoxFit.cover,
-          width: 62.0,
-          height: 62.0,
+          width: 47.0,
+          height: 47.0,
           colorBlendMode: BlendMode.dstATop,
         ),
       ),

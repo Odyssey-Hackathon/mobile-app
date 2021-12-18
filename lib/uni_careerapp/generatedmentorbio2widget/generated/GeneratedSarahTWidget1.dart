@@ -15,7 +15,7 @@ class GeneratedSarahTWidget1 extends StatelessWidget {
         fontSize: 24.0,
         fontFamily: 'Roboto',
         fontWeight: FontWeight.w400,
-        color: Color.fromARGB(255, 0, 0, 0),
+        color: Color.fromARGB(255, 255, 255, 255),
 
         /* letterSpacing: 0.0, */
       ),

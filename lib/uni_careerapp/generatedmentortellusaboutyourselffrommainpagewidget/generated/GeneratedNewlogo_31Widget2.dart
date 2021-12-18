@@ -10,8 +10,8 @@ class GeneratedNewlogo_31Widget2 extends StatelessWidget {
       onTap: () => Navigator.pushNamed(
           context, '/GeneratedLoggedinHomepagewithcategoriesWidget'),
       child: Container(
-        width: 51.0,
-        height: 51.0,
+        width: 52.0,
+        height: 52.0,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(102.5),
         ),
@@ -21,8 +21,8 @@ class GeneratedNewlogo_31Widget2 extends StatelessWidget {
             "assets/images/d857ac8b3c65a3ac7e8fced716075a9ad517f948.png",
             color: null,
             fit: BoxFit.cover,
-            width: 51.0,
-            height: 51.0,
+            width: 52.0,
+            height: 52.0,
             colorBlendMode: BlendMode.dstATop,
           ),
         ),

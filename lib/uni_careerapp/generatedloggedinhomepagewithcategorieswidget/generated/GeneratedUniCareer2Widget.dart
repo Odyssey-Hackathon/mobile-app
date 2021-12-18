@@ -7,16 +7,16 @@ class GeneratedUniCareer2Widget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 140.0,
-      height: 64.0,
+      width: 112.0,
+      height: 51.0,
       child: ClipRRect(
         borderRadius: BorderRadius.zero,
         child: Image.asset(
-          "assets/images/41efba6a3d544b8dbac6b2eb0f14ebef",
+          "assets/images/93c6735f41e04bf5b9e707b8211a1f94",
           color: null,
           fit: BoxFit.fill,
-          width: 140.0,
-          height: 64.0,
+          width: 112.0,
+          height: 51.0,
           colorBlendMode: BlendMode.dstATop,
         ),
       ),
