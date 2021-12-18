@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110002644395",
+    "project_id": "odyessy-hackathon",
+    "storage_bucket": "odyessy-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110002644395:android:e4ad938d9efa41be36deee",
+        "android_client_info": {
+          "package_name": "com.example.odessy_hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110002644395-9a9159odj8rnr797b53f8ksu5og4fs4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFbJSieoq2nUo8D5UAuwR5jQP1-w4EnHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110002644395-9a9159odj8rnr797b53f8ksu5og4fs4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
