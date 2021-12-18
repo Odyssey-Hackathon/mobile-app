@@ -1,4 +1,4 @@
-# odessy_hack
+# my_app
 
 A new Flutter project.
 
